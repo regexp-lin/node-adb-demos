@@ -4,4 +4,4 @@ const utils = require('./utils')
 setInterval(() => {
     utils.praise()
     utils.swipeUp()
-}, 2000)
+}, 8000)
